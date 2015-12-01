@@ -1,4 +1,5 @@
 # Vim Profile
+Start by cloning the repository...
 
     $ cd ~
     $ git clone http://github.com/ncphillips/vimrc .vim_profile
